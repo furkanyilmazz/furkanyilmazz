@@ -10,7 +10,11 @@
 
 <p align="left"> <a href="https://www.w3schools.com/js/" target="_blank">
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="csharp" width="40" height="40"/>
-</a> <a href="https://www.w3schools.com/css/" target="_blank"> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank">
+
+ </a> <a href="https://reactnative.dev" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png" alt="dotnet" width="40" height="40">
+
+</a> <a href="https://www.w3.org/html/" target="_blank">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunusOzdemirr&theme=radical&show_icons=true)
