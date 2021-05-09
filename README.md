@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/furkan-yılmaz-84734b17b" target="blank"><img align="center" src="https://sadullahkisacik.com/wp-content/uploads/2019/12/linkedin.png" alt="Furkan YILMAZ" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/furkan-yılmaz-84734b17b" target="blank"><img align="center" src="https://sadullahkisacik.com/wp-content/uploads/2019/12/linkedin.png" alt="Furkan YILMAZ" height="40" width="40" /></a>
 <a href="https://www.instagram.com/fuyk4n/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="fuyk4n" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
