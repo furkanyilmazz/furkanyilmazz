@@ -8,8 +8,7 @@
           Hi, I'm Furkan. I'm a front end developer.
           <br />
           I'm currently working here 
-          @<a href="https://www.hergele.co/">
-            Hergele Scooters
+            Zınk Company
           </a>
           as a front end developer
         </p>
@@ -37,3 +36,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=furkanyilmazz&count_private=true&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanyilmazz&hide=html,ruby&layout=compact&show_icons=true&theme=tokyonight">
 </div>
+
+![snake svg](https://github.com/furkanyilmazz/furkanyilmazz/blob/output/github-contribution-grid-snake.svg)
