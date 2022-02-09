@@ -8,7 +8,7 @@
           Hi, I'm Furkan. I'm a front end developer.
           <br />
           I'm currently working here 
-            Zınk Company
+            CMNSoftware
           </a>
           as a front end developer
         </p>
